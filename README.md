@@ -1,0 +1,2 @@
+# Fuzzer
+Simple Fuzzing tool.
