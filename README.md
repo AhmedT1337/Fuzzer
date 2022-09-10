@@ -1,9 +1,10 @@
 # Fuzzer
 Simple Fuzzing tool.
 
-help :
-  usage: 
-      PYTHON :
-        fuzzer.py [-h] [-u URL] [-w WORDLIST] [-m METHOD]
-      BASH :
-        ./fuzzer.sh filename url
+USAGE :
+
+  PYTHON :
+    python3 fuzzer.python --help
+    
+  BASH :
+    ./fuzzer.sh filename url
