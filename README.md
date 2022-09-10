@@ -2,4 +2,8 @@
 Simple Fuzzing tool.
 
 help :
-usage: fuzzer.py [-h] [-u URL] [-w WORDLIST] [-m METHOD]
+  usage: 
+      PYTHON :
+        fuzzer.py [-h] [-u URL] [-w WORDLIST] [-m METHOD]
+      BASH :
+        ./fuzzer.sh filename url
